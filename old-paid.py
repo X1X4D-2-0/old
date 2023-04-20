@@ -33,7 +33,7 @@ import base64
 import subprocess
 from concurrent.futures import ThreadPoolExecutor
 
-			exit()
+			
 		os.system("clear")
 		
 		print ("""\033[0;92m
